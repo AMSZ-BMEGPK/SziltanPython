@@ -9,6 +9,9 @@ Ezt követően minden mappában egy kidolgozott feladat szerepel, melyet optimá
 
 Megtalálható továbbá egy szorgalmi házi feladat is a `szorgalmi_hf` mappában. A kiírást a `szil_szhf.pdf` fájl tartalmazza. Amennyiben megoldjátok a feladatot, küldjétek az eredményt az `amsz.bme [kukac] gmail.com` e-mail címre, és ellenőrizzük.
 
+**Fontos:**
+A <img src="./CodeButton.png" width="80"/> gombra való kattintás után a `Download ZIP` kiválasztásával lehet letölteni, majd megnyitni a fájlokat.
+
 Reméljük ezzel a segédlettel elősegítjük a Szilárdságtan tananyagának mélyebb megértését, valamit kedvet kaptok a jövőbeni mérnöki feladataitok során felmerülő problémák Pythonban törénő megoldásához.
 
 Jó munkát kívánunk!
