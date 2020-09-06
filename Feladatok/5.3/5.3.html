@@ -13212,7 +13212,7 @@ Ez három skaláregyenletet ad, melyekből az alakváltozási tenzor elemei megh
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;A skalár egyenletek jobb oldalai:&quot;</span><span class="p">)</span>
@@ -13232,8 +13232,7 @@ Ez három skaláregyenletet ad, melyekből az alakváltozási tenzor elemei megh
 <span class="n">eq2</span> <span class="o">=</span> <span class="n">eq2</span><span class="o">.</span><span class="n">evalf</span><span class="p">()</span>
 <span class="n">eq3</span> <span class="o">=</span> <span class="n">eq3</span><span class="o">.</span><span class="n">evalf</span><span class="p">()</span>
 
-<span class="c1"># Mivel a fenti egyenletek lineárisak a változóikban, így a sima &#39;solve&#39; helyett a &#39;linsolve&#39;-ot használjuk</span>
-<span class="c1"># Ez sokkal kedvezőbb futási idővel rendelkezik, és stabilabban működik az általános megoldóhoz képest</span>
+<span class="c1"># Egyenletrendszer megoldása</span>
 <span class="n">sol1</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">solve</span><span class="p">([</span><span class="n">eq1</span><span class="p">,</span><span class="n">eq2</span><span class="p">,</span><span class="n">eq3</span><span class="p">],</span><span class="n">ε_x</span><span class="p">,</span><span class="n">ε_y</span><span class="p">,</span><span class="n">γ_xy</span><span class="p">)</span>
 
 <span class="c1"># a numerikus eredmények (a &#39;dictionary&#39;-ból kiszedve):</span>
