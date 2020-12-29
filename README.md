@@ -33,3 +33,13 @@ Készítették:
 - Sykora Henrik
 
 </sub>
+
+### Tartalomjegyzék:
+- Rudak, gerendák feszültségi állapota (normál, hajlító, csavaró, nyíró és összetett igénybevételek esetén) : 1.1. - 1.25.
+- Rudak, gerendák deformált alakja, rugalmas szál differenciálegyenlete: 2.1. - 2.3.
+- Kihajlás: 3.1. - 3.3.
+- Feszültségi és alakváltozási állapot leírása általános esetben: 4.1 - 4.11.
+- Általános Hooke-törvény: 5.1. - 5.5.
+- Szilárdsági méretezés, egyenértékű feszültség elméletek: 6.1. - 6.8.
+- Energia módszerek (deformációk, statikailag határozatlan szerkezetek): 7.1. - 7.13.
+- Vékonyfalú tartályok feszültségi állapota: 8.1. - 8.5.
